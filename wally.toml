@@ -1,0 +1,20 @@
+[package]
+name = "yoannrompion/basegame"
+version = "0.1.0"
+registry = "https://github.com/Rivrs-Roblox/wally-index"
+realm = "shared"
+
+[dependencies]
+Knit = "sleitnick/knit@1.7.0"
+Roact = "roblox/roact@1.4.4"
+cmdr = "evaera/cmdr@1.12.0"
+Trove = "sleitnick/trove@1.3.0"
+Input = "sleitnick/input@2.3.0"
+Signal = "sleitnick/signal@2.0.1"
+Shake = "sleitnick/shake@1.1.0"
+Timer = "sleitnick/timer@1.1.2"
+roactRodux = "roblox/roact-rodux@0.3.0"
+rodux = "roblox/rodux@3.0.0"
+hooks = "kampfkarren/roact-hooks@0.3.0"
+roduxhooks = "solarhorizon/rodux-hooks@0.3.1"
+roactSpring = "chriscerie/roact-spring@^1.1.6"
